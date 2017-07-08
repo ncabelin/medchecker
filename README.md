@@ -8,8 +8,8 @@ This is a medication cross checker (Interactions) app. It's a full stack server 
 2. 
 
 ## Authors
-Neptune Michael Cabelin
-Artemio Cabelin
+* Neptune Michael Cabelin
+* Artemio Cabelin
 
 ## Copyright
 MIT
