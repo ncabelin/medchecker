@@ -8,7 +8,7 @@ This is a medication cross checker (Interactions) app. It's a full stack server 
 
 ## File Structure
 -----------------
-'''
+```
 app.py - main python file
 /env
 /static
@@ -19,7 +19,7 @@ app.py - main python file
 /templates
 	base.html
 	home.html
-'''
+```
 ## Authors
 * Neptune Michael Cabelin
 * Artemio Cabelin
