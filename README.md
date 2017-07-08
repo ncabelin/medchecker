@@ -5,7 +5,19 @@ This is a medication cross checker (Interactions) app. It's a full stack server 
 
 ## Modules
 1. flask (jinja2, itsdangerous)
-2. 
+
+## File Structure
+-----------------
+app.py - main python file
+/env
+/static
+	/css
+		style.css
+	/images
+	/js
+/templates
+	base.html
+	home.html
 
 ## Authors
 * Neptune Michael Cabelin
